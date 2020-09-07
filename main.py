@@ -28,4 +28,3 @@ while suma_1 !=3 and suma_2 !=3  :
         print("Wygrał Player 2")
         suma_2 += 1
     print("Wynik : ",suma_1," ",suma_2)
-    suma_1=int(suma_1)
